@@ -1,0 +1,14 @@
+@"
+CATEGORY TABLE OUTPUT
+=====================
+
+CATEGORY_ID  CATEGORY_NAME
+-----------  ----------------
+1            Electronics
+2            Home Appliances
+3            Fashion
+4            Books
+5            Beauty Products
+
+5 rows selected.
+"@ | Set-Content categoryoutput.txt
